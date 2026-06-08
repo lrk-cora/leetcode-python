@@ -1,0 +1,43 @@
+# LeetCode Python 刷题记录
+使用 Python 练习算法，循序渐进，持续复盘。
+
+## 刷题进度
+- 总题数：36
+- Easy：35
+- Medium：1
+- Hard：0
+
+## 题目索引
+### 数组 Array
+- [0001 两数之和](./easy/array/0001_two_sum.py)
+- [0026 删除有序数组中的重复项](./easy/array/0026_remove_duplicates_from_sorted_array.py)
+- [0027 移除元素](./easy/array/0027_remove_element.py)
+- [0066 加一](./easy/array/0066_plus_one.py)
+- [0283 移动零](./easy/array/0283_move_zeroes.py)
+- [0485 最大连续 1 的个数](./easy/array/0485_max_consecutive_ones.py)
+- [0605 种花问题](./easy/array/0605_can_place_flowers.py)
+
+### 中等数组 Medium Array
+- [0167 两数之和 II - 输入有序数组](./medium/array/0167_two_sum_ii_input_array_is_sorted.py)
+
+### 字符串 String
+- [0009 回文数](./easy/string/0009_palindrome_number.py)
+- [0013 罗马数字转整数](./easy/string/0013_roman_to_integer.py)
+- [0067 二进制求和](./easy/string/0067_add_binary.py)
+- [0125 验证回文串](./easy/string/0125_valid_palindrome.py)
+- [0205 同构字符串](./easy/string/0205_isomorphic_strings.py)
+- [0344 反转字符串](./easy/string/0344_reverse_string.py)
+- [0387 字符串第一个唯一字符](./easy/string/0387_first_unique_character_in_a_string.py)
+- [0392 判断子序列](./easy/string/0392_is_subsequence.py)
+- [0541 反转字符串 II](./easy/string/0541_reverse_string_ii.py)
+- [0709 转换成小写字母](./easy/string/0709_to_lower_case.py)
+- [1047 删除字符串所有相邻重复项](./easy/string/1047_remove_all_adjacent_duplicates_in_string.py)
+- [1221 分割平衡字符串](./easy/string/1221_split_a_string_in_balanced_strings.py)
+- [1544 整理字符串](./easy/string/1544_make_the_string_great.py)
+
+### 链表 Linked List
+- [0083 删除排序链表重复节点](./easy/linked_list/0083_remove_duplicates_from_sorted_list.py)
+- [0141 环形链表](./easy/linked_list/0141_linked_list_cycle.py)
+- [0206 反转链表](./easy/linked_list/0206_reverse_linked_list.py)
+- [0234 回文链表](./easy/linked_list/0234_palindrome_linked_list.py)
+- 
