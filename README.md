@@ -52,5 +52,11 @@
 
 ### medium
 #### 数组 Array
+- [0011 盛最多水的容器](./medium/array/0011_container_with_most_water.py)
 - [0015 三数之和](./medium/array/0015_three_sum.py)
+- [0018 四数之和](./medium/array/0018_four_sum.py)
 - [0167 两数之和 II - 输入有序数组](./medium/array/0167_two_sum_ii_input_array_is_sorted.py)
+
+### hard
+#### 数组 Array
+- [0042 接雨水](./medium/array/0042_trapping_rain_water.py)
