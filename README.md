@@ -33,6 +33,7 @@
 #### 栈 Stack
 - [0020 有效的括号](./easy/stack/0020_valid_parentheses.py)
 - [0496 下一个更大元素 I](./easy/stack/0496_next_greater_element_i.py)
+- [0844 比较含退格的字符串](./easy/stack/0844_backspace_string_compare.py)
 - [1047 删除字符串所有相邻重复项](./easy/stack/1047_remove_all_adjacent_duplicates_in_string.py)
 
 #### 字符串 String
@@ -56,6 +57,7 @@
 - [0015 三数之和](./medium/array/0015_three_sum.py)
 - [0018 四数之和](./medium/array/0018_four_sum.py)
 - [0167 两数之和 II - 输入有序数组](./medium/array/0167_two_sum_ii_input_array_is_sorted.py)
+- [0287 寻找重复数](./medium/array/0287_find_the_duplicate_number.py)
 
 ### hard
 #### 数组 Array
