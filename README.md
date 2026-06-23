@@ -9,8 +9,10 @@
 - [0027 移除元素](./easy/array/0027_remove_element.py)
 - [0066 加一](./easy/array/0066_plus_one.py)
 - [0283 移动零](./easy/array/0283_move_zeroes.py)
+- [0345 反转字符串中的元音字母](./easy/array/0345_reverse_vowels_of_a_string.py)
 - [0485 最大连续 1 的个数](./easy/array/0485_max_consecutive_ones.py)
 - [0605 种花问题](./easy/array/0605_can_place_flowers.py)
+- [0977 有序数组的平方](./easy/array/0977_squares_of_a_sorted_array.py)
 
 #### 哈希表 Hash Table
 - [0136 只出现一次的数字](./easy/hash_table/0136_single_number.py)
